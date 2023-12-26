@@ -31,3 +31,4 @@ Use a well-established authorization library for secure and efficient access con
 
 - A fully functional `Node.js` application implementing the above features.
 - Bonus points for a UI/UX that simplifies interaction with the system.
+- You will present the app on google meet. 
