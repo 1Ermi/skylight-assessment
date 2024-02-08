@@ -24,7 +24,7 @@ Use a well-established authorization library for secure and efficient access con
 #### Tech Stack 
 - NodeJS
 - TailwindCSS
-- MYSQL/PostgreSQL
+- Mongodb
 - React/Redux 
 
 #### Deliverables:
